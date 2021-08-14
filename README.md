@@ -5,7 +5,7 @@ Data source: https://stats.espncricinfo.com/ci/content/records/93276.html
 
 Data description:
 
-Dataset: Bowling records in test matches dataset that include specific features such as
+**Dataset**: Bowling records in test matches that includes following columns such as
 <br>1. **Player**: Name of the individual player followed by his country name/initials in parenthesis
 <br>2. **Span**: Starting and end year of the player's test career
 <br>3. **Mat**: Number of test matches played by the player
