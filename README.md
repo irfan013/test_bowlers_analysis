@@ -29,6 +29,6 @@ Analyses performed so far:
 5. Finding the data statistics and check for the data types
 6. Commenting whether there is any missing values
 7. Appropriately renaming the column names 
-8. Removing a column from the dataframe
+8. Removing a least important column from the dataframe
 
 Update date: 14th August 2021
