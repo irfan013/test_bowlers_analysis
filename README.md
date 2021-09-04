@@ -30,5 +30,16 @@ Analyses performed so far:
 6. Commenting whether there is any missing values
 7. Appropriately renaming the column names 
 8. Removing a least important column from the dataframe
+9. Removing the columns BBI and BBM.
+10. Finding the number of players who played for ICC
+11. Finding the number of different countries present in this dataset 
+12. Finding the number of player(s) who had played for the longest period of time
+13. Finding out which player(s) had played for the shortest period of time
+14. Finding the number of Australian Bowlers are present in this dataset
+15. Finding out whether there is any Bangladeshi player present in this dataset
+16. Finding out which player has the lowest economy rate
+17. Finding out which player has the lowest strike rate
+18. Finding out which player has the lowest bowling average
 
-Update date: 14th August 2021
+
+Update date: 9th September 2021
