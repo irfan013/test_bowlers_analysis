@@ -42,4 +42,4 @@ Analyses performed so far:
 18. Finding out which player has the lowest bowling average
 
 
-Update date: 9th September 2021
+Update date: 4th September 2021
